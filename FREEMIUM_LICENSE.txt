@@ -1,0 +1,45 @@
+Know Your IP Address — Optional Paid Support & Services (v1.0)
+
+IMPORTANT: The source code included in this repository is licensed under the MIT License and remains freely available for lifetime use under those terms. This document explains optional paid support, maintenance, and custom service terms offered for packaged marketplace downloads. The app itself remains free and MIT-licensed.
+
+1. Definitions
+- "Buyer" means the person or entity that purchases or downloads the packaged app through the marketplace.
+- "Package" means the distributable ZIP file or marketplace-provided download bundle containing the app's code, assets, and documentation.
+- "Author" or "Provider" means the copyright owner or the offerer (Taher Motukuna / tahermotukuna-web).
+
+2. Optional Paid Services
+- Paid services are optional and unrelated to the core MIT license. If you purchase paid services (support, extended maintenance, or custom development) the following applies:
+	- The Buyer receives priority support for the duration and scope agreed in the service purchase.
+	- The Buyer receives updates and patches specified in the purchase agreement (if applicable).
+
+3. Restrictions
+- The Buyer may not resell or repackage the support services or claim any rights to the underlying copyrighted source beyond the MIT license. Distributions of the original code remain under MIT.
+- The Buyer may not claim copyright or ownership of the original code; the original author(s) must be acknowledged.
+
+4. Support & Updates (Optional Paid Services)
+- Paid support is available for an agreed-upon duration and level (e.g., 30 days, 90 days, or custom longer-term agreements).
+- Support covers patch-level fixes and may include compatibility updates. Update coverage is determined by the purchased support plan.
+- Extended maintenance and custom development services are available on request.
+
+5. Warranty & Liability
+- The Package is provided "AS IS", without warranty of any kind, either express or implied.
+- The Author is not liable for any damages or claims arising from the use of the Package beyond the terms of this agreement.
+
+6. Refunds
+- Marketplace refunds for the purchase of optional paid services follow the marketplace's policies. The free MIT-licensed code itself is not refundable because it is accessible freely in the repository.
+
+7. Commercial Use & Upgrades
+- The Freemium License allows commercial use within the bounds described above, but it does not entitle the Buyer to re-license or resell the Package itself.
+- For rights to redistribute, resell, or white-label this product, the Buyer must contact the Author to negotiate a separate commercial license or reseller agreement, which will be mutually agreed in writing and may include fee adjustments.
+
+8. Contact
+- For commercial/reseller license inquiries or extended support requests, contact: taher@your-domain.com
+
+9. Governing Law
+- Unless otherwise specified in a separate written agreement, this license is governed by the laws of the Author's jurisdiction.
+
+10. Acceptance
+- By downloading the Package and using the support and update services offered with the Package, the Buyer accepts the terms of this Freemium License.
+
+---
+Note: This license text is intended to be simple and buyer-friendly. It is not legal advice. Please consult a licensed attorney if you need a legally binding or customized license document for special circumstances.

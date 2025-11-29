@@ -5,6 +5,7 @@ require_once 'src/helpers/IPHelper.php';
 
 $controller = new IPController();
 $ipAddress = $controller->getIP();
+$rawXForwardedFor = $_SERVER['HTTP_X_FORWARDED_FOR'] ?? '';
 $isValid = IPHelper::validateIP($ipAddress);
 $formattedIP = IPHelper::formatIP($ipAddress);
 
@@ -324,6 +325,14 @@ $formattedIP = IPHelper::formatIP($ipAddress);
                     <?php echo !empty($_SERVER['HTTP_CLIENT_IP']) || !empty($_SERVER['HTTP_X_FORWARDED_FOR']) ? 'Proxy' : 'Direct'; ?>
                 </div>
             </div>
+            <?php if (!empty($rawXForwardedFor)) : ?>
+            <div class="detail-item">
+                <div class="detail-label">X-Forwarded-For</div>
+                <div class="detail-value" style="font-size:0.95em; font-weight:600; color:#555;">
+                    <?php echo htmlspecialchars($rawXForwardedFor); ?>
+                </div>
+            </div>
+            <?php endif; ?>
         </div>
 
         <div class="features">

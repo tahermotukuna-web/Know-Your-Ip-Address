@@ -1,0 +1,140 @@
+Codestorez Submission Content - Know Your IP Address
+
+---
+Basic Information
+
+App Name: Know Your IP Address
+Developer Name: Taher Motukuna (tahermotukuna-web)
+Platform: Web (PHP / Apache / XAMPP)
+Category: Utilities — Network Tools
+License Type: MIT License (source) — Free for lifetime. Optional paid support is available.
+
+---
+Version & URLs
+
+Version: 1.0.0
+Release Date: 11/29/2025
+App URL (if web-based): https://knowyourip.com/  (or your hosted URL)
+GitHub Repo / Source URL: https://github.com/tahermotukuna-web/Know-Your-Ip-Address
+
+---
+Description & Metadata (SEO)
+
+Meta Title: Know Your IP Address — Free Online IP Checker & Network Tool
+Meta Description: Instantly view your public IPv4/IPv6, detect proxy or VPN, copy your IP, and learn about your connection — a simple, secure, mobile-friendly tool.
+Meta Keywords: IP address, public IP, my IP, ip checker, IPv4, IPv6, IP lookup, network tools, php
+Author: Know Your IP Address
+Canonical URL: https://knowyourip.com/
+Theme Color: #667eea
+
+Open Graph (example):
+- og:title: Know Your IP Address - Find Your Public IP Online
+- og:description: Instantly find your public IP address with our free online tool. Get detailed information about your IPv4/IPv6, connection type, and location.
+- og:image: https://knowyourip.com/og-image.png
+- twitter:card: summary_large_image
+
+---
+Tags
+
+ip address, ip checker, network tools, utilities, php, web app, open source, ip lookup, ipv4, ipv6
+
+---
+Full Description (Marketplace Listing)
+
+# Know Your IP Address — Quick IP Checker for Developers & Admins
+
+Know Your IP Address is a polished, lightweight PHP application that displays a visitor's public IPv4/IPv6 address along with connection diagnostics (proxy detection, validation, and type). This product is packaged and ready to deploy for testing, diagnostics, tutorials, or embedding in dashboards.
+
+Key benefits for buyers:
+- Ready-to-deploy — works on XAMPP, Apache, or any PHP hosting without composer
+- Easy to brand and customize — simple layout and CSS files included
+- Minimal footprint — fast, secure, and mobile friendly
+
+Highlights
+- Display public IPv4/IPv6
+- Proxy detection (HTTP_CLIENT_IP / HTTP_X_FORWARDED_FOR)
+- IP validation and detection (IPv4 or IPv6)
+- Copy-to-clipboard UX for quick use
+- Clean, responsive design with accessible markup
+
+What's included (download package)
+- Source code (index.php, `src/` controllers/services/helpers)
+- UI assets (CSS and JS in `public/`)
+- Example `.htaccess` for Apache
+- Marketplace-ready documentation and licenses (`codestorez_submission.txt`, `FREEMIUM_LICENSE.txt`, `LICENSE`)
+
+Who it’s for
+- IT administrators, network engineers, and system administrators
+- Devs and instructors who want an embeddable IP checker
+- SaaS owners who want an IP-check widget to add to dashboards
+
+Requirements
+- PHP 7.4 or later (recommended PHP 8.x)
+- Apache or compatible web server (XAMPP recommended for local testing)
+- Basic write access to a webroot (htdocs or virtual host)
+
+Installation (Marketplace buyer-friendly)
+1. Upload the files to your server’s webroot (or a subfolder).
+2. Ensure permissions are correct and PHP is configured (no Composer required).
+3. Access the site in your browser (e.g., `https://example.com/index.php`) and verify the IP display.
+
+Quick Setup (XAMPP example)
+```bash
+# download and unzip the package to C:\xampp\htdocs\Know-Your-Ip-Address
+# start XAMPP and make sure Apache is running
+# visit http://localhost/Know-Your-Ip-Address/index.php
+```
+
+Customization & Integration
+- Replace `public/css/style.css` for brand customization
+- Extend `src/controllers` and `src/services` for additional data sources
+- Add features such as geo-IP lookup, ISP data, or history logging as premium add-ons
+
+Support & Updates
+- This listing includes a free patch-level support window (30 days) — for bug fixes and minor updates.
+- Paid support and custom development are available upon request (contact: taher@your-domain.com).
+
+Licensing & Support
+- Source Code License: This project's source code is distributed under the MIT License and remains free to use, copy, modify, and distribute for lifetime use.
+- Packaged Downloads: Packaged downloads (`Know-Your-Ip-Address.zip`) are provided free of charge and do not impose additional licensing restrictions beyond MIT.
+- Optional Paid Support: Paid support, updates beyond the standard patches, and bespoke customizations are available as optional paid services. These are not required to use the application and are offered separately.
+	- Paid support may include priority fixes, extended compatibility updates, and customization services. Details are provided in `FREEMIUM_LICENSE.txt` for transparency, but the app itself is free for lifetime under MIT.
+
+Delivery & Refund Policy
+- Files are available for immediate download upon purchase.
+- If you have any compatibility issues or bugs we’ll provide a fix or a refund per marketplace policies within the first 7 days.
+
+What buyers receive in the package
+- Downloadable ZIP with full source code and assets
+- Basic installation instructions and short setup guide
+- Lightweight, documented code with no external dependencies
+
+Demo & Screenshots
+- Add your hosted demo link (e.g., `https://knowyourip.com/`) for buyers to test live.
+- Provide 2–3 screenshots: desktop UI, mobile UI, and copy-to-clipboard example.
+
+
+---
+Files to Upload (Codestorez form fields)
+
+- App Icon: 512×512 PNG/SVG (max 2MB) — e.g., `logo.png`, icon of a globe or IP symbol.
+- Screenshots: 2–4 screenshots (desktop + mobile) (max 5MB each) — e.g., `screenshot-desktop.png`, `screenshot-mobile.png`.
+- App Package: zipped project source `Know-Your-Ip-Address.zip` (max 50MB).
+
+---
+Suggested Additions (Optional)
+
+- Demo link for quick testing (host a live instance with HTTPS)
+- Changelog summary for the release
+- Contribution guidelines and Code of Conduct (link in GitHub)
+- Support email or contact link
+
+---
+How to use this file: Copy each field into the corresponding Codestorez form input.
+
+If you want, I can also: 
+- Generate a `README.md` from this content and commit it to the repository
+- Create a sample `logo.png` and screenshots (simple designs) to upload
+- Zip the project into a `Know-Your-Ip-Address.zip` file ready to submit
+
+End of submission text.

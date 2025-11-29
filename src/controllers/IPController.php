@@ -1,8 +1,6 @@
 <?php
 
-namespace App\Controllers;
-
-use App\Services\IPService;
+require_once __DIR__ . '/../services/IPService.php';
 
 class IPController
 {
@@ -15,7 +13,6 @@ class IPController
 
     public function getIP()
     {
-        $ipAddress = $this->ipService->fetchIP();
-        include '../public/index.php'; // Assuming this is where the view is rendered
+        return $this->ipService->fetchIP();
     }
 }
